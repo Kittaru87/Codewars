@@ -1,5 +1,6 @@
-# Codewars
+Codewars
 
-# Ruby solutions to CodeWars problems
+Ruby solutions to CodeWars problems
 
-# Comments welcome
+Comments welcome
+
